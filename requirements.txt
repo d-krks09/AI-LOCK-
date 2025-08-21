@@ -9,4 +9,5 @@ streamlit
 matplotlib
 numpy pandas
 pyserial
+ai-lock-8a369-firebase-adminsdk-fbsvc-9241edcc37.json
 pillow
