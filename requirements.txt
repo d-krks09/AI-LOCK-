@@ -1,2 +1,12 @@
-streamlit
+cmake
+dlib-bin==19.24.2
+face-recognition
+opencv-python
+deepface
 firebase-admin
+python-telegram-bot
+streamlit
+matplotlib
+numpy pandas
+pyserial
+pillow
